@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  UnitTest101.cpp
+C:\АП\Лаби АП\lab 10.1\lab 10.1.cpp(47,13): warning C4566: character represented by universal-character-name '\u2116' cannot be represented in the current code page (1252)
+  (compiling source file '/UnitTest101.cpp')
+  
+     Creating library C:\АП\Лаби АП\lab 10.1\x64\Debug\UnitTest101.lib and object C:\АП\Лаби АП\lab 10.1\x64\Debug\UnitTest101.exp
+  UnitTest101.vcxproj -> C:\АП\Лаби АП\lab 10.1\x64\Debug\UnitTest101.dll

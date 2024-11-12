@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u0410\u041F\\\u041B\u0430\u0431\u0438 \u0410\u041F\\lab 10.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75AE474C-8CEC-4A0D-BA9F-319006835745}|..\\UnitTest101\\UnitTest101.vcxproj|C:\\\u0410\u041F\\\u041B\u0430\u0431\u0438 \u0410\u041F\\UnitTest101\\UnitTest101.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B8D57F-9718-4672-BD3D-9258346D9220}|lab 10.1.vcxproj|C:\\\u0410\u041F\\\u041B\u0430\u0431\u0438 \u0410\u041F\\lab 10.1\\lab 10.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02B8D57F-9718-4672-BD3D-9258346D9220}|lab 10.1.vcxproj|solutionrelative:lab 10.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest101.cpp",
+              "DocumentMoniker": "C:\\\u0410\u041F\\\u041B\u0430\u0431\u0438 \u0410\u041F\\UnitTest101\\UnitTest101.cpp",
+              "RelativeDocumentMoniker": "..\\UnitTest101\\UnitTest101.cpp",
+              "ToolTip": "C:\\\u0410\u041F\\\u041B\u0430\u0431\u0438 \u0410\u041F\\UnitTest101\\UnitTest101.cpp",
+              "RelativeToolTip": "..\\UnitTest101\\UnitTest101.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T14:14:46.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab 10.1.cpp",
+              "DocumentMoniker": "C:\\\u0410\u041F\\\u041B\u0430\u0431\u0438 \u0410\u041F\\lab 10.1\\lab 10.1.cpp",
+              "RelativeDocumentMoniker": "lab 10.1.cpp",
+              "ToolTip": "C:\\\u0410\u041F\\\u041B\u0430\u0431\u0438 \u0410\u041F\\lab 10.1\\lab 10.1.cpp",
+              "RelativeToolTip": "lab 10.1.cpp",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAgwGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-11T14:24:20.975Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
